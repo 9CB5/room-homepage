@@ -186,7 +186,6 @@ nav {
 }
 
 .about-first-img-container {
-    background-color: red;
     width: 100%;
     overflow: hidden;
     background-size: cover;
@@ -195,7 +194,6 @@ nav {
 }
 
 .about-second-img-container {
-    background-color: blue;
     width: 100%;
     overflow: hidden;
     background-size: cover;
