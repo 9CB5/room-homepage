@@ -191,7 +191,7 @@ nav {
     overflow: hidden;
     background-size: cover;
     background-position: center;
-    background-image: url('/images/image-about-dark.jpg');
+    background-image: url('./images/image-about-dark.jpg');
 }
 
 .about-second-img-container {
@@ -200,7 +200,7 @@ nav {
     overflow: hidden;
     background-size: cover;
     background-position: center;
-    background-image: url('/images/image-about-light.jpg');
+    background-image: url('./images/image-about-light.jpg');
 }
 
 .about-description-container {
