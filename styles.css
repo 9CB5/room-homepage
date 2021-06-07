@@ -62,7 +62,7 @@ nav {
 .banner {
     display: grid;
     grid-template-columns: 55% 45%;
-    height: 65vh;
+    min-height: 65vh;
 }
 
 .banner-image-container {
@@ -182,7 +182,7 @@ nav {
 .about {
     display: grid;
     grid-template-columns: 30% 40% 30%;
-    height: 35vh;
+    min-height: 35vh;
 }
 
 .about-first-img-container {
@@ -220,6 +220,10 @@ nav {
 }
 
 @media screen and (max-width:1800px) {
+
+    .banner-description {
+        padding-top: 120px;
+    }
 
     .banner-description  h1 {
         padding-left: 120px;
